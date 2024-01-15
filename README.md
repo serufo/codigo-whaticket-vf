@@ -1,6 +1,6 @@
 <h1 align="center">Whaticket Baileys cumunidade |Canal Vem Fazer</h1>
 
-<h1 align="center">https://www.youtube.com/channel/UCwFO9ylM7gHxYIXfJqAo1vQ</h1>
+<h1 align="center">https://www.youtube.com/@vemfazer</h1>
 
 
 ## Vamos instalar?
