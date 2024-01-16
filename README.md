@@ -16,6 +16,10 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 cd && cd ./install && sudo ./install_instancia
 ```
 
+## Usuário e senha padrão:
+
+user: admin@admin.com
+senha: 123456
 
 ## Para Instalação você precisa:
 
